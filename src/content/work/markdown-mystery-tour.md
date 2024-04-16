@@ -1,7 +1,7 @@
 ---
 title: LIDAR/Thermal sensor integration
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.webp
+img: /portfolio/assets/stock-1.webp
 img_alt: Topology map
 description: |
   Get to know a little more about my work using frequencies that our eyes cannot see!

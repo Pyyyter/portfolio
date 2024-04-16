@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence
 publishDate: 2020-03-04 00:00:00
-img: /assets/stock-3.gif
+img: /portfolio/assets/stock-3.gif
 img_alt: Computer vision implementation
 description: |
   Making the most of the world using machine intelligence

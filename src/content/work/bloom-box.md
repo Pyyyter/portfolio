@@ -1,7 +1,7 @@
 ---
 title: .NET and microcontrollers
 publishDate: 2019-12-01 00:00:00
-img: /assets/stock-2.jpg
+img: /portfolio/assets/stock-2.jpg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
   Computer vision, API's in microcontrollers and everything nice.
