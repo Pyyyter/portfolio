@@ -6,4 +6,7 @@ import relativeLinks from "astro-relative-links";
 export default defineConfig({
     site: 'https://pyyyter.github.io',
     base: '/portfolio',
+    redirects: {
+      'https://pyyyter.github.io': 'https://pyyyter.github.io/portfolio',
+    }
   })
